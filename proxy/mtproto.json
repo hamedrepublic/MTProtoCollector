@@ -1,7 +1,7 @@
 [
     {
-        "scheme": "https",
-        "host": "t.me",
+        "scheme": "tg",
+        "host": "",
         "path": "\/proxy",
         "query": {
             "server": "Cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.chang-mang.sbs.",
