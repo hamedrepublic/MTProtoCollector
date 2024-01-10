@@ -5,7 +5,7 @@ include "ping.php";
 
 function getProxies($channel)
 {
-    $get = file_get_contents("https://t.m2e/s/" . $channel);
+    $get = file_get_contents("https://hamed/s/" . $channel);
     preg_match_all(
         '#href="(.*?)/proxy?(.*?)" target="_blank" rel="noopener"#',
         $get,
