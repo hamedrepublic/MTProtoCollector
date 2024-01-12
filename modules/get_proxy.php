@@ -100,9 +100,7 @@ function remove_duplicate($input)
             $output[$counter]["query"]["port"] .
             "&secret=" .
             $output[$counter]["query"]["secret"] .
-            "&" .
-            $output[$counter]["query"]["name"];
-        $counter++;
+            
     }
     return $output;
 }
