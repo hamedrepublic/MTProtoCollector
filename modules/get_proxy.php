@@ -101,7 +101,7 @@ function remove_duplicate($input)
             "&secret=" .
             $output[$counter]["query"]["secret"] .
             "&" .
-            $output[$counter]["query"]["name"];
+       /)     $output[$counter]["query"]["name"];
         $counter++;
     }
     return $output;
