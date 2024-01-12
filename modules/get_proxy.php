@@ -43,7 +43,7 @@ function parse_proxy($proxy, $name)
         } else {
             $flag = "🚩";
         }
-        $query_params["name"] = "@" . $name . "|" . $flag;
+ 
         $proxy_array = $parts;
         unset($proxy_array["query"]);
         $proxy_array["query"] = $query_params;
@@ -100,7 +100,9 @@ function remove_duplicate($input)
             $output[$counter]["query"]["port"] .
             "&secret=" .
             $output[$counter]["query"]["secret"] .
-          
+            "&" .
+            $output[$counter]["query"]["name"];
+        $counter++;
     }
     return $output;
 }
