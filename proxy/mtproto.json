@@ -280,6 +280,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "83.149.100.106",
+            "port": "1",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
+            "name": "@v2rayNGNeT|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=83.149.100.106&port=1&secret=FgMBAgABAAH8AwOG4kw63Q==&@v2rayNGNeT|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "185.222.28.214",
             "port": "8085",
             "secret": "FgMBAgABAAH8AwOG4kw63Q==",
