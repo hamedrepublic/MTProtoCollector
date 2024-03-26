@@ -88,30 +88,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "65.109.11.143",
-            "port": "8",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
-            "name": "@MTP_roto|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=65.109.11.143&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==&@MTP_roto|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "65.109.232.135",
-            "port": "8",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
-            "name": "@MTP_roto|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=65.109.232.135&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==&@MTP_roto|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "65.21.70.131",
             "port": "8280",
             "secret": "FgMBAgABAAH8AwOG4kw63Q==",
@@ -154,6 +130,18 @@
             "name": "@ProxyDaemi|\ud83c\uddf7\ud83c\uddfa"
         },
         "link": "https:\/\/t.me\/proxy?server=195.2.81.177&port=2026&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyDaemi|\ud83c\uddf7\ud83c\uddfa"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "dd.tgproxy.today",
+            "port": "8080",
+            "secret": "dd4cf9d9103e558ddbe1b73a47771c29f7",
+            "name": "@proxyme|\ud83c\uddf1\ud83c\uddfb"
+        },
+        "link": "https:\/\/t.me\/proxy?server=dd.tgproxy.today&port=8080&secret=dd4cf9d9103e558ddbe1b73a47771c29f7&@proxyme|\ud83c\uddf1\ud83c\uddfb"
     },
     {
         "scheme": "https",
@@ -256,12 +244,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "tarhoasargroup.com.symolife.com.pegahesfahan.com.zirobaam.com.greenboos.com.w_aterfoundation.org.radinmedia.com.nowsadeh.com.kalamehrgroup.com.wideidea.ir.art_in-as.ir.a_qua_jetiran.com.ezexpert.ir.kaghazsilicone.com.lahzeh.ir.bazargol.com.lebasziir.com",
-            "port": "443",
-            "secret": "xh4W7mtKXLlLKquGLEMXHg==",
-            "name": "@proxy_kafee|\ud83c\udde9\ud83c\uddea"
+            "server": "65.109.232.135",
+            "port": "8",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
+            "name": "@proxy_kafee|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=tarhoasargroup.com.symolife.com.pegahesfahan.com.zirobaam.com.greenboos.com.w_aterfoundation.org.radinmedia.com.nowsadeh.com.kalamehrgroup.com.wideidea.ir.art_in-as.ir.a_qua_jetiran.com.ezexpert.ir.kaghazsilicone.com.lahzeh.ir.bazargol.com.lebasziir.com&port=443&secret=xh4W7mtKXLlLKquGLEMXHg==&@proxy_kafee|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=65.109.232.135&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==&@proxy_kafee|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
