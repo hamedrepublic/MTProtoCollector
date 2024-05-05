@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "iau-mahabad.ac.ir.pezhvaktadbir.com.sm-kheradmand.com.tortorak.ir.pejvakshop.ir.abtinfurniture.ir.sinasemi.com.javidtrading.com.aclinic.ir.sibclinics.com.ezexpert.ir.csirtpro.ir.fixhm.ir.drhost.info.virastary.ir.rata.ir.babyhousemashhad.ir.faezeh.makeup.",
-            "port": "443",
-            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
+            "server": "148.251.120.156",
+            "port": "7443",
+            "secret": "FgMBAgABAAH8AwOG4kw63QBQ",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=iau-mahabad.ac.ir.pezhvaktadbir.com.sm-kheradmand.com.tortorak.ir.pejvakshop.ir.abtinfurniture.ir.sinasemi.com.javidtrading.com.aclinic.ir.sibclinics.com.ezexpert.ir.csirtpro.ir.fixhm.ir.drhost.info.virastary.ir.rata.ir.babyhousemashhad.ir.faezeh.makeup.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=148.251.120.156&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -58,6 +58,18 @@
             "name": "@PlusMTProto|\ud83c\uddeb\ud83c\uddee"
         },
         "link": "https:\/\/t.me\/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972&@PlusMTProto|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "uoyfdydpuc.co.uk",
+            "port": "123",
+            "secret": "ee1603010200010001fc030386e24c3add6d792e6d792e6d792e6d79",
+            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=uoyfdydpuc.co.uk&port=123&secret=ee1603010200010001fc030386e24c3add6d792e6d792e6d792e6d79&@MTP_roto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
