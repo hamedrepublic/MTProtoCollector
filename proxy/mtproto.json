@@ -16,6 +16,30 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "web.cloudflare.com.www.gmail.com.vordok.sbs",
+            "port": "1919",
+            "secret": "7HQighJPBNMYVRNB6tdkVw",
+            "name": "@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=web.cloudflare.com.www.gmail.com.vordok.sbs&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "amin8953.com.javabgoo.org.moeinbms.ir.karyabietem-ad.ir.neoniroo.com.myck.ir.hajicompani.com.cartrou-bleshoot.com.prg24.ir.s-tanesti.ir.chi-d-ar.ir.goops.ir.navidzoko.ir.starrymind.ir.hakimfarabi.co.parsroshan.ir.darktrench.ir.taaknetnewinternet.website",
+            "port": "443",
+            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
+            "name": "@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=amin8953.com.javabgoo.org.moeinbms.ir.karyabietem-ad.ir.neoniroo.com.myck.ir.hajicompani.com.cartrou-bleshoot.com.prg24.ir.s-tanesti.ir.chi-d-ar.ir.goops.ir.navidzoko.ir.starrymind.ir.hakimfarabi.co.parsroshan.ir.darktrench.ir.taaknetnewinternet.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "50.7.87.85",
             "port": "443",
             "secret": "eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267",
