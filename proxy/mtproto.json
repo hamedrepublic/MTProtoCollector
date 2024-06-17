@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "108.165.67.111",
+            "port": "9889",
+            "secret": "_____________________w",
+            "name": "@ProxyDaemi|\ud83c\uddf2\ud83c\uddfe"
+        },
+        "link": "https:\/\/t.me\/proxy?server=108.165.67.111&port=9889&secret=_____________________w&@ProxyDaemi|\ud83c\uddf2\ud83c\uddfe"
+    }
+]
