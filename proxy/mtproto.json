@@ -16,42 +16,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "kurdcivil.ir.sojapars.com.pegahesfahan.com.tiragesazeh.com.smsariaads.ir.jahancopy.ir.mahtamashayekhi.com.peaple.ir.neyavandsazan.com.pezhman.ir.b-iakooh.com.pts-halal.ir.faraimen.com.habibidaf.com.leilarezadad.com.ahwaz.ir.makushop.ir.ir.pezishkian.lol.",
-            "port": "443",
-            "secret": "7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==",
-            "name": "@ProxyMTProto|\ud83c\uddf8\ud83c\uddec"
-        },
-        "link": "https:\/\/t.me\/proxy?server=kurdcivil.ir.sojapars.com.pegahesfahan.com.tiragesazeh.com.smsariaads.ir.jahancopy.ir.mahtamashayekhi.com.peaple.ir.neyavandsazan.com.pezhman.ir.b-iakooh.com.pts-halal.ir.faraimen.com.habibidaf.com.leilarezadad.com.ahwaz.ir.makushop.ir.ir.pezishkian.lol.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==&@ProxyMTProto|\ud83c\uddf8\ud83c\uddec"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.hercool.click.",
-            "port": "1919",
-            "secret": "eeRigzNJvXrFGRMCIMJdEAPQ",
-            "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.hercool.click.&port=1919&secret=eeRigzNJvXrFGRMCIMJdEAPQ&@Myporoxy|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "M3-E46-2005.hezarsh-mashal0.co.uk.yxsjhxttjhkrs-dkcr.co.uk.zxsjhxrrjhkrs-pkcj.co.uk.kprjhxrrjhkrs-pkcj.co.uk.clsjhxrrjhkrs-pkcj.co.uk.rglhxrrjhkrs-pgcj.co.uk.",
-            "port": "7443",
-            "secret": "FgMBAgABAAH8AwOG4kw63QBQ",
-            "name": "@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=M3-E46-2005.hezarsh-mashal0.co.uk.yxsjhxttjhkrs-dkcr.co.uk.zxsjhxrrjhkrs-pkcj.co.uk.kprjhxrrjhkrs-pkcj.co.uk.clsjhxrrjhkrs-pkcj.co.uk.rglhxrrjhkrs-pgcj.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ&@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "165.232.91.116",
             "port": "443",
             "secret": "7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t",
@@ -115,8 +79,8 @@
             "server": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.kaboybaz.motorcycles.",
             "port": "6550",
             "secret": "eeRigzNJvXrFGRMCIMJdEAPQ",
-            "name": "@ProxyForOpeta|\ud83c\uddeb\ud83c\uddf7"
+            "name": "@ProxyForOpeta|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.kaboybaz.motorcycles.&port=6550&secret=eeRigzNJvXrFGRMCIMJdEAPQ&@ProxyForOpeta|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.kaboybaz.motorcycles.&port=6550&secret=eeRigzNJvXrFGRMCIMJdEAPQ&@ProxyForOpeta|\ud83c\udde9\ud83c\uddea"
     }
 ]
