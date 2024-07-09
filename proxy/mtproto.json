@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.hamster-kombot.fun.",
-            "port": "1201",
-            "secret": "eeRigzNJvXrFGRMCIMJdEAPQ",
-            "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+            "server": "79.127.239.83",
+            "port": "9090",
+            "secret": "FgMBAgABAAH8AwOG4kw63QBQ2RueWVrdGFuZXQuY32tZmFyYWthdi5jb213YW9ubmFQdMEuY89TAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "name": "@TelMTProto|\ud83c\uddec\ud83c\udde7"
         },
-        "link": "https:\/\/t.me\/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.hamster-kombot.fun.&port=1201&secret=eeRigzNJvXrFGRMCIMJdEAPQ&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=79.127.239.83&port=9090&secret=FgMBAgABAAH8AwOG4kw63QBQ2RueWVrdGFuZXQuY32tZmFyYWthdi5jb213YW9ubmFQdMEuY89TAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@TelMTProto|\ud83c\uddec\ud83c\udde7"
     },
     {
         "scheme": "https",
