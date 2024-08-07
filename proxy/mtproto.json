@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "195.62.32.119",
-            "port": "85",
-            "secret": "7lLIZ9x1mD-vS7N_kdUWTwkt",
-            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
+            "server": "140.233.187.17",
+            "port": "12",
+            "secret": "7mZge5CInMYHGdIXDLKFGWIq",
+            "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=195.62.32.119&port=85&secret=7lLIZ9x1mD-vS7N_kdUWTwkt&@MTP_roto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=140.233.187.17&port=12&secret=7mZge5CInMYHGdIXDLKFGWIq&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
