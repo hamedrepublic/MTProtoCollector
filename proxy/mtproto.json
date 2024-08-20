@@ -4,24 +4,36 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "23.88.51.230",
+            "server": "49.13.145.80",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
             "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=23.88.51.230&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=49.13.145.80&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "140.233.187.54",
-            "port": "12",
-            "secret": "7mZge5CInMYHGdIXDLKFGWIrKi1f",
+            "server": "isipo.ir.shiklike.ir.appnita.ir.amlakeshahresaheli.com.rasaneh.org.rearc-hitecture.ir.alzen.ir.autokala.shop.maytham.ir.arta-riagroup.com.amanatbartehran.ir.pezha-rt.ir.azar-team.ir.ki-miyaonline.com.tadbirsazan.com.bazargol.com.almacompanymobile.online",
+            "port": "443",
+            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
             "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=140.233.187.54&port=12&secret=7mZge5CInMYHGdIXDLKFGWIrKi1f&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=isipo.ir.shiklike.ir.appnita.ir.amlakeshahresaheli.com.rasaneh.org.rearc-hitecture.ir.alzen.ir.autokala.shop.maytham.ir.arta-riagroup.com.amanatbartehran.ir.pezha-rt.ir.azar-team.ir.ki-miyaonline.com.tadbirsazan.com.bazargol.com.almacompanymobile.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "goodarzco.ir.falehafezonline.com.hyperglass.ir.takhteshirin.com.aftabcloudy.ir.soundsnap.ir.mapfa.net.ipmn-co.com.donyasim.ir.serialkorea.ir.aryacabinet.ir.abankardarmani.com.ngj--co.ir.saeed-askarinia.ir.doobs.ir.dcadmin.ir.playstationsorenabandar.shop",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=goodarzco.ir.falehafezonline.com.hyperglass.ir.takhteshirin.com.aftabcloudy.ir.soundsnap.ir.mapfa.net.ipmn-co.com.donyasim.ir.serialkorea.ir.aryacabinet.ir.abankardarmani.com.ngj--co.ir.saeed-askarinia.ir.doobs.ir.dcadmin.ir.playstationsorenabandar.shop&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@MTP_roto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
