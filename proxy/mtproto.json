@@ -136,6 +136,19 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "pp.pppppppppppppppppppppp.mmmeeeeeeeeeeeeeeeeeeeeeeeeheeeeeeeeeee.eeddddddddddeeeeeeeeeeee.hahaliya.shop.",
+            "ut_ac_ir": "",
+            "port": "1",
+            "secret": "7u7u7u7u7u7u7u7u7u7u7g",
+            "name": "@ProxyDaemi|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=pp.pppppppppppppppppppppp.mmmeeeeeeeeeeeeeeeeeeeeeeeeheeeeeeeeeee.eeddddddddddeeeeeeeeeeee.hahaliya.shop.&port=1&secret=7u7u7u7u7u7u7u7u7u7u7g&@ProxyDaemi|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "name": "@ProxyDaemi|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@ProxyDaemi|\ud83c\uddfa\ud83c\uddf8"
@@ -211,6 +224,18 @@
             "name": "@PinkProxy|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=176.65.135.13&port=443&secret=eeRighJJvXrFGRMCIMJdCQ&@PinkProxy|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "165.232.91.116",
+            "port": "443",
+            "secret": "7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t",
+            "name": "@alephproxy|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=165.232.91.116&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t&@alephproxy|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
