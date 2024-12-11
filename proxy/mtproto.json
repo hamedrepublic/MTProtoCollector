@@ -109,24 +109,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk.",
+            "server": "ipv-6-ipv-4.firewall.rules.nat.winbox.webfig.new-interfaces.acceptall-udp-connections.mikrotik-webfig.co.uk.",
             "port": "3443",
             "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
             "name": "@ProxyMTProto_tel|\ud83c\uddf1\ud83c\uddf9"
         },
-        "link": "https:\/\/t.me\/proxy?server=interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk.&port=3443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@ProxyMTProto_tel|\ud83c\uddf1\ud83c\uddf9"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "interfaces-eth0-eth1-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.reject-icmp.popular-firewalls.co.uk.",
-            "port": "3443",
-            "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
-            "name": "@ProxyMTProto_tel|\ud83c\uddf1\ud83c\uddf9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=interfaces-eth0-eth1-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.reject-icmp.popular-firewalls.co.uk.&port=3443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@ProxyMTProto_tel|\ud83c\uddf1\ud83c\uddf9"
+        "link": "https:\/\/t.me\/proxy?server=ipv-6-ipv-4.firewall.rules.nat.winbox.webfig.new-interfaces.acceptall-udp-connections.mikrotik-webfig.co.uk.&port=3443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@ProxyMTProto_tel|\ud83c\uddf1\ud83c\uddf9"
     },
     {
         "scheme": "https",
@@ -151,6 +139,18 @@
             "name": "@proxyy|\ud83c\udded\ud83c\uddf0"
         },
         "link": "https:\/\/t.me\/proxy?server=194.120.230.159&port=85&secret=7gAA8A8Pd__1VV______9QB2LmNwLS0=&@proxyy|\ud83c\udded\ud83c\uddf0"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "165.232.91.116",
+            "port": "443",
+            "secret": "7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t",
+            "name": "@alephproxy|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=165.232.91.116&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t&@alephproxy|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
