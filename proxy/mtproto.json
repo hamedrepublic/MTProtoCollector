@@ -28,12 +28,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "tutorland.org.kamaa.ir.medepas.com.behsazanchoob.ir.novin-hesab.com.eta.co.ir.travelsetare724.com.mywebjob.ir.toip.ir.cipmashad.ir.ltga.ir.koohasport.com.tatgallery.ir.azarsanat.net.buygiftcart.com.leso.ir.emileh.ir.helikala.com.kermanlightsport.website",
+            "server": "drsobouti.com.padafandpartovi.ir.ay-deniz.co.buymp3player.ir.shokufehcup.com.tabiateno.com.farasaman.com.frtl.ir.xn----5mctjd0-f5bu-97b.com.sharifsysware.com.razeparvaz.com.24booking.ir.g-olnooshart.ir.samaeducational.com.ellafood.ir.poshakshikopik.shop",
             "port": "443",
             "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=drsobouti.com.padafandpartovi.ir.ay-deniz.co.buymp3player.ir.shokufehcup.com.tabiateno.com.farasaman.com.frtl.ir.xn----5mctjd0-f5bu-97b.com.sharifsysware.com.razeparvaz.com.24booking.ir.g-olnooshart.ir.samaeducational.com.ellafood.ir.poshakshikopik.shop&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "goobs.ir.cheeta.ir.shahrazma.ir.attariha-shemi.ir.finer.ir.nikn-amazma.com.karjoyanbnd.ir.koumeshrunmotor.com.felfoor.com.tunnelfalatpars.com.pazhtower.com.puyanarianmanesh.ir.dayere.org.samaeducational.com.batisac.com.fatemesaba.art.poshakshikopik.shop",
+            "port": "443",
+            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
             "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=tutorland.org.kamaa.ir.medepas.com.behsazanchoob.ir.novin-hesab.com.eta.co.ir.travelsetare724.com.mywebjob.ir.toip.ir.cipmashad.ir.ltga.ir.koohasport.com.tatgallery.ir.azarsanat.net.buygiftcart.com.leso.ir.emileh.ir.helikala.com.kermanlightsport.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=goobs.ir.cheeta.ir.shahrazma.ir.attariha-shemi.ir.finer.ir.nikn-amazma.com.karjoyanbnd.ir.koumeshrunmotor.com.felfoor.com.tunnelfalatpars.com.pazhtower.com.puyanarianmanesh.ir.dayere.org.samaeducational.com.batisac.com.fatemesaba.art.poshakshikopik.shop&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
