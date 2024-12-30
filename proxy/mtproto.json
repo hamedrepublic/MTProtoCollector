@@ -40,6 +40,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "14.102.10.123",
+            "port": "85",
+            "secret": "7gD_AA___wD_9VVf______VmLmtvLS0=",
+            "name": "@ProxyMTProto|\ud83c\uddf1\ud83c\uddf9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=14.102.10.123&port=85&secret=7gD_AA___wD_9VVf______VmLmtvLS0=&@ProxyMTProto|\ud83c\uddf1\ud83c\uddf9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "204.79.197.203.apt-login.com.mindermon.info",
             "port": "1919",
             "secret": "1320PuNyHw_LQKT_Y7XNJw",
@@ -223,6 +235,18 @@
             "name": "@PinkProxy|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=176.65.135.42&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@PinkProxy|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "91.184.245.101",
+            "port": "8443",
+            "secret": "eeRighJJvXrFGRMCIMJdCQ",
+            "name": "@proxy_kafee|\ud83c\uddf7\ud83c\uddfa"
+        },
+        "link": "https:\/\/t.me\/proxy?server=91.184.245.101&port=8443&secret=eeRighJJvXrFGRMCIMJdCQ&@proxy_kafee|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",
