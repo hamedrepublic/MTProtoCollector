@@ -4,36 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.80",
-            "port": "443",
-            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.80&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "77.232.40.196",
             "port": "23",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
             "name": "@Lion_MTProto|\ud83c\uddf7\ud83c\uddfa"
         },
         "link": "https:\/\/t.me\/proxy?server=77.232.40.196&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQ&@Lion_MTProto|\ud83c\uddf7\ud83c\uddfa"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "chcxirb.co.uk",
-            "port": "9090",
-            "secret": "FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-            "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=chcxirb.co.uk&port=9090&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
