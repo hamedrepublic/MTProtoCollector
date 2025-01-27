@@ -79,9 +79,9 @@
             "server": "hajasad.auditoriumbest.org",
             "port": "443",
             "secret": "dd1603010200010001fc030386e24c3add",
-            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
+            "name": "@TelMTProto|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=hajasad.auditoriumbest.org&port=443&secret=dd1603010200010001fc030386e24c3add&@TelMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=hajasad.auditoriumbest.org&port=443&secret=dd1603010200010001fc030386e24c3add&@TelMTProto|\ud83d\udea9"
     },
     {
         "scheme": "https",
