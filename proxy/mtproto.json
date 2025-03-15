@@ -4,30 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "23.88.51.230",
-            "port": "443",
-            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=23.88.51.230&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "65.108.1.87",
-            "port": "8888",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q",
-            "name": "@Lion_MTProto|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=65.108.1.87&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q&@Lion_MTProto|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "185.222.28.177",
             "port": "23",
             "secret": "1320PuNyHw_LQKT_Y7XNJw==",
@@ -88,6 +64,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "91.84.101.81",
+            "port": "443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ==",
+            "name": "@MTP_roto|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=91.84.101.81&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ==&@MTP_roto|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "95.217.149.18",
             "port": "443",
             "secret": "ee1603010200010001fc030386e24c3add726161682e6972",
@@ -130,6 +118,18 @@
             "name": "@ProxyDaemi|\ud83c\udded\ud83c\uddf0"
         },
         "link": "https:\/\/t.me\/proxy?server=103.161.34.28&port=45&secret=3dd9tD7jch8Py0Ck_2O1zSc=&@ProxyDaemi|\ud83c\udded\ud83c\uddf0"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "103.161.34.25",
+            "port": "45",
+            "secret": "3dd9tD7jch8Py0Ck_2O1zSc=",
+            "name": "@ProxyDaemi|\ud83c\udded\ud83c\uddf0"
+        },
+        "link": "https:\/\/t.me\/proxy?server=103.161.34.25&port=45&secret=3dd9tD7jch8Py0Ck_2O1zSc=&@ProxyDaemi|\ud83c\udded\ud83c\uddf0"
     },
     {
         "scheme": "https",
@@ -193,23 +193,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "ssssssss.mmmmm.5745798.yekdose123.space",
-            "port": "8080",
-            "secret": "ee1b3829daae01fd07c0e23c917c664004697669662e6972",
-            "name": "@alephproxy|\ud83c\uddec\ud83c\udde7"
+            "server": "45.15.159.66",
+            "port": "1",
+            "secret": "ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d",
+            "name": "@YekoyekVpn|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=ssssssss.mmmmm.5745798.yekdose123.space&port=8080&secret=ee1b3829daae01fd07c0e23c917c664004697669662e6972&@alephproxy|\ud83c\uddec\ud83c\udde7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "yazdiec.ir.abadisholding.com.khaleleila.com.baninoorco.com.nitac-arpet.ir.carinabzar.com.dr-pariaravanfar.ir.softnurse.com.gu-ilanshop.ir.pmo-co.com.antiab.ir.wetco.co.kill-erfish.ir.ict2.ir.autoclave-avico.com.falcondocmovie.ir.kermanlightsport.website",
-            "port": "443",
-            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@alephproxy|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=yazdiec.ir.abadisholding.com.khaleleila.com.baninoorco.com.nitac-arpet.ir.carinabzar.com.dr-pariaravanfar.ir.softnurse.com.gu-ilanshop.ir.pmo-co.com.antiab.ir.wetco.co.kill-erfish.ir.ict2.ir.autoclave-avico.com.falcondocmovie.ir.kermanlightsport.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@alephproxy|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=45.15.159.66&port=1&secret=ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d&@YekoyekVpn|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
