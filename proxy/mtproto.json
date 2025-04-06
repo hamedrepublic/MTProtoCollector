@@ -184,6 +184,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "195.66.212.11",
+            "port": "50",
+            "secret": "DD79e344818749bd7ac519130220c25d09",
+            "name": "@ProxyDaemi|\ud83c\uddfa\ud83c\udde6"
+        },
+        "link": "https:\/\/t.me\/proxy?server=195.66.212.11&port=50&secret=DD79e344818749bd7ac519130220c25d09&@ProxyDaemi|\ud83c\uddfa\ud83c\udde6"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "14.102.10.41",
             "port": "888",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
